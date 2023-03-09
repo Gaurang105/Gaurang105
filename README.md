@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurang105" alt="gaurang105" /></a> </p>
 
-- 🔭 I’m currently working on [my DSA skills.](https://github.com/Gaurang105/Strivers-A2Z-DSA-Answers)
-
-- 🌱 I’m currently learning **Data Analysis and Data Structures.**
-
-- 👯 I’m looking to collaborate on **Web-Development Projects**
+- 🔭 I’m currently working on [my DSA skills.](https://github.com/Gaurang105/Striver-SDE-Sheet-Solutions)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gaurang105](https://github.com/Gaurang105)
 
