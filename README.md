@@ -12,7 +12,7 @@ if (codeWorking):
             while (codeQuality < perfectCode):
                 codeQuality += 1
                 
-// - Gaurang Gujrati
+## Gaurang Gujrati
 ```
 
 
