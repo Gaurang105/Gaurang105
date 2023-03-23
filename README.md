@@ -10,6 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Gaurang105&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurang105&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang105&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gaurang105&theme=radical&no-frame=false&no-bg=true&margin-w=4)
