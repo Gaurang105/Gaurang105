@@ -15,7 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Gaurang105&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/GaurangGujrati)](https://github.com/Gaurang105/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=GaurangGujrati&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
