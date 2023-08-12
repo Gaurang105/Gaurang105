@@ -7,7 +7,6 @@
 🧑‍💻My proficiency lies in technologies including Python, Javascript, Selenium, Flask, Data Analysis, Data Mining, AWS, Terraform, MySQL, HTML and CSS. I have utilized these skills in various projects, such as developing Python-based web scrapers, analyzing stock data, designing business dashboards, and even creating machine learning models for crop yield prediction.
 
 What distinguishes me is my commitment to learn and adapt continually. I am always exploring new technologies that can enhance my productivity and the effectiveness of my projects.<br><br>
-
 🔍 I am continuously seeking opportunities to learn, grow, and collaborate with like-minded professionals. If you'd like to discuss potential projects or simply connect, don't hesitate to reach out!
 
 ## 🌐 Socials:
