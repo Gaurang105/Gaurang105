@@ -1,10 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA Skills.<br>👨‍💻 All of my projects are available at https://github.com/Gaurang105?tab=repositories<br>📫 How to reach me gujratigaurang@gmail.com<br>👯 I'm looking to collaborate on Data Science Projects.<br>🌐 Personal Website:  https://gaurang-gujrati.netlify.app/<br><br>
-👋Hi, I am Gaurang Gujrati, a final-year undergraduate student pursuing a degree in Computer Science with a focus on Cloud Computing at SRM Institute of Science and Technology. I am writing to express my keen interest in working at your organization. My academic performance, complemented by my CGPA of 8.81, reflects my commitment to mastering the nuances of the field.
+Hi, 
+I am Gaurang Gujrati. I can make pretty websites and scrape any data from the internet. These are two skills I’m proficient in.
 
-⚒️I bring with me the experience of working as a Data Engineer and Data Science intern at Vivadiant Pvt. Ltd. and Moksh.io. At Vivadiant, I led the Data Engineering team in tasks ranging from data mining to financial model creation. At Moksh.io, I was part of the core Data Mining team, collaborating closely with the backend team on developing mining scripts to suit API endpoint requirements. I believe these experiences have honed my skills in managing data and understanding its applicability.
+Some general info:
+I am full-stack software engineer and currently  working as Python - Gen AI developer at Resistant Technology. I have had the chance to work in different roles since my 3rd year of college like Data Engineer, Data Scientist, and SDE in various startups and helped them build their products. 
 
-🧑‍💻My proficiency lies in technologies including Python, Javascript, Selenium, Flask, Data Analysis, Data Mining, AWS, Terraform, MySQL, HTML and CSS. I have utilized these skills in various projects, such as developing Python-based web scrapers, analyzing stock data, designing business dashboards, and even creating machine learning models for crop yield prediction.
+These are my skills:
+Languages: Python, Javascript, Typescript, Golang
+Frameworks: Django, Flask, Nodejs, Reactjs, Nextjs, Selenium
+Databases: MongoDB, PostgreSQL, Amazon DocumentDB, Redis
+Cloud Tech: AWS, GCP, Terraform, Docker
+Other Tech: Web-scraping
 
 What distinguishes me is my commitment to learn and adapt continually. I am always exploring new technologies that can enhance my productivity and the effectiveness of my projects.<br><br>
 🔍 I am continuously seeking opportunities to learn, grow, and collaborate with like-minded professionals. If you'd like to discuss potential projects or simply connect, don't hesitate to reach out!
