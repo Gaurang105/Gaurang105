@@ -6,11 +6,11 @@ Some general info:
 I am full-stack software engineer and currently  working as Python - Gen AI developer at Resistant Technology. I have had the chance to work in different roles since my 3rd year of college like Data Engineer, Data Scientist, and SDE in various startups and helped them build their products. 
 
 These are my skills:
-Languages: Python, Javascript, Typescript, Golang
-Frameworks: Django, Flask, Nodejs, Reactjs, Nextjs, Selenium
-Databases: MongoDB, PostgreSQL, Amazon DocumentDB, Redis
-Cloud Tech: AWS, GCP, Terraform, Docker
-Other Tech: Web-scraping
+- Languages: Python, Javascript, Typescript, Golang
+- Frameworks: Django, Flask, Nodejs, Reactjs, Nextjs, Selenium
+- Databases: MongoDB, PostgreSQL, Amazon DocumentDB, Redis
+- Cloud Tech: AWS, GCP, Terraform, Docker
+- Other Tech: Web-scraping
 
 What distinguishes me is my commitment to learn and adapt continually. I am always exploring new technologies that can enhance my productivity and the effectiveness of my projects.<br><br>
 🔍 I am continuously seeking opportunities to learn, grow, and collaborate with like-minded professionals. If you'd like to discuss potential projects or simply connect, don't hesitate to reach out!
