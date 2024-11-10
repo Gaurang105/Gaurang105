@@ -1,16 +1,15 @@
 # 💫 About Me:
 Hi, 
-I am Gaurang Gujrati. I can make pretty websites and scrape any data from the internet. These are two skills I’m proficient in.
+I am Gaurang Gujrati. I graduated from SRM Institute of Science and Technology in May 2024. I am a software engineer currently working as a Python—Gen AI developer at Resistant Technology. Since my third year of college, I have had the chance to work in different roles, such as Data Engineer, Data Scientist, and SDE, in various startups and help them build their products. 
 
-Some general info:
-I am full-stack software engineer and currently  working as Python - Gen AI developer at Resistant Technology. I have had the chance to work in different roles since my 3rd year of college like Data Engineer, Data Scientist, and SDE in various startups and helped them build their products. 
+I've worked and led projects like Voter Data Scraping System, WordPress RAG Chatbot, various startup websites, DCF Valuation Model Pipeline, and testing of DOJO system (Coding Platform) for Kalvium, Uber Data Analytics Pipeline. 
 
 These are my skills:
-- Languages: Python, Javascript, Typescript, Golang
-- Frameworks: Django, Flask, Nodejs, Reactjs, Nextjs, Selenium
-- Databases: MongoDB, PostgreSQL, Amazon DocumentDB, Redis
-- Cloud Tech: AWS, GCP, Terraform, Docker
-- Other Tech: Web-scraping
+- Languages: Python, Javascript, Typescript, Golang, Bash
+- Frameworks: FastAPI, React, Node.js, Flask, Django, Selenium
+- Developer Tools: Git, Docker, AWS (EC2, S3, RDS, EKS), Postman
+- Databases: PostgreSQL, MongoDB, MySQL, Amazon DocumentDB
+- Others: Web-Scraping, Data Pipelining
 
 What distinguishes me is my commitment to learn and adapt continually. I am always exploring new technologies that can enhance my productivity and the effectiveness of my projects.<br><br>
 🔍 I am continuously seeking opportunities to learn, grow, and collaborate with like-minded professionals. If you'd like to discuss potential projects or simply connect, don't hesitate to reach out!
