@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, 
-I am Gaurang Gujrati. I graduated from SRM Institute of Science and Technology in May 2024. I am a software engineer currently working as a Python—Gen AI developer at Resistant Technology. Since my third year of college, I have had the chance to work in different roles, such as Data Engineer, Data Scientist, and SDE, in various startups and help them build their products. 
+I am Gaurang Gujrati. I graduated from SRM Institute of Science and Technology in May 2024. I am a software engineer currently working as a Developer at Headout. Since my third year of college, I have had the chance to work in different roles, such as Data Engineer, Data Scientist, and SDE, in various startups and help them build their products. 
 
 I've worked and led projects like Voter Data Scraping System, WordPress RAG Chatbot, various startup websites, DCF Valuation Model Pipeline, and testing of DOJO system (Coding Platform) for Kalvium, Uber Data Analytics Pipeline. 
 
