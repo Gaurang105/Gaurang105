@@ -1,18 +1,9 @@
 # 💫 About Me:
-Hi, 
-I am Gaurang Gujrati. I graduated from SRM Institute of Science and Technology in May 2024. I am a software engineer currently working as a Developer at Headout. Since my third year of college, I have had the chance to work in different roles, such as Data Engineer, Data Scientist, and SDE, in various startups and help them build their products. 
+Developer focused on data-driven products—currently building AI internal tools at Headout (’25); previously built vector-search chatbots and high-accuracy scraping pipelines at Resistant Technology (’24) and engineered feedback and ranking systems at Kalvium (’23).
 
-I've worked and led projects like Voter Data Scraping System, WordPress RAG Chatbot, various startup websites, DCF Valuation Model Pipeline, and testing of DOJO system (Coding Platform) for Kalvium, Uber Data Analytics Pipeline. 
+I specialize in LLM-powered data pipelines, distributed backend APIs, and scalable AI systems.
 
-These are my skills:
-- Languages: Python, Javascript, Typescript, Golang, Bash
-- Frameworks: FastAPI, React, Node.js, Flask, Django, Selenium
-- Developer Tools: Git, Docker, AWS (EC2, S3, RDS, EKS), Postman
-- Databases: PostgreSQL, MongoDB, MySQL, Amazon DocumentDB
-- Others: Web-Scraping, Data Pipelining
-
-What distinguishes me is my commitment to learn and adapt continually. I am always exploring new technologies that can enhance my productivity and the effectiveness of my projects.<br><br>
-🔍 I am continuously seeking opportunities to learn, grow, and collaborate with like-minded professionals. If you'd like to discuss potential projects or simply connect, don't hesitate to reach out!
+Off duty, you’ll find me tweeting on X and reading Web-Novels.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurang-gujrati-088a931b8/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/GaurangGujrati) 
