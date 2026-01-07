@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer focused on data-driven products—currently building AI internal tools at **<a href="https://headout.com/">Headout</a> (’25)**; previously built vector-search chatbots and high-accuracy scraping pipelines at **<a href="https://resistanttech.com/">Resistant Technology</a> (’24)** and engineered feedback and ranking systems at **<a href="https://kalvium.com/">Kalvium</a> (’23)**.
+Software Engineer focused on data-driven products—currently building AI internal tools at **<a href="https://headout.com/">Headout</a> (’25)**; previously built vector-search chatbots and high-accuracy scraping pipelines at **<a href="https://resistanttech.com/">Resistant Technology</a> (’24)** and engineered feedback and ranking systems at **<a href="https://kalvium.com/">Kalvium</a> (’23)**.
 
 I specialize in LLM-powered data pipelines, distributed backend APIs, and scalable AI systems. 
 
